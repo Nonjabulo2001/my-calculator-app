@@ -45,9 +45,9 @@
     
 }
 .container form input:hover{
-    color: rgba(49, 6, 6, 0.952);
+    color: #220101f3;
     background-color: white;
-    opacity: 50%;
+    opacity: 70%;
 }
 
  
