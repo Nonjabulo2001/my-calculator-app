@@ -1,4 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "/calculator.html"
-status = 200
